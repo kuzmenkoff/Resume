@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    min-height: 1319px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.left {
+    float: left;
+    width: 370px;
+    background-color: #E0EBFE;
+    height: 1280px;
+    padding: 20px;
+}
+
+.container {
+    width: 1200px;
+    height: 1319px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+
+.my_photo {
+    display: block;
+    height: auto;
+    width: 370px;
+    height:370px;
+}
+
+.contacts {
+    float: left;
+    margin-left: 40px;
+}
+
+.tech_skills {
+    float: left;
+    margin-left: 40px;
+}
+
+.soft_skills {
+    float: left;
+    margin-left: 40px;
+}
+
+.languages {
+    float: left;
+    margin-left: 40px;
+}
+
+.text_intro {
+    float: right;
+    margin-right: 80px;
+    width: 650px;
+    margin-bottom: 0px
+}
+
+.projects {
+    float: right;
+    margin-right: 80px;
+    width: 650px;
+    margin-bottom: 0px
+}
+
+.experience {
+    float: right;
+    margin-right: 80px;
+    width: 650px;
+    margin-bottom: 0px
+}
+
+.education {
+    float: right;
+    margin-right: 80px;
+    width: 650px;
+    margin-bottom: 0px
+}

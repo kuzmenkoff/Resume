@@ -26,8 +26,12 @@ body {
 .my_photo {
     display: block;
     height: auto;
-    width: 370px;
-    height:370px;
+    max-width: 370px;
+    max-height:370px;
+    margin: auto;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 18px;
 }
 
 .contacts {
